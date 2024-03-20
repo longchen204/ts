@@ -18,11 +18,6 @@ export const Header = () => {
           Register
         </NavLink>
       </li>
-      <li>
-        <NavLink to='/register' className='nav-link'>
-          Rtesst
-        </NavLink>
-      </li>
     </ul>
   )
 }
