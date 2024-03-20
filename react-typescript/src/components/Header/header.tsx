@@ -20,7 +20,7 @@ export const Header = () => {
       </li>
       <li>
         <NavLink to='/register' className='nav-link'>
-          test
+          Rtesst
         </NavLink>
       </li>
     </ul>
